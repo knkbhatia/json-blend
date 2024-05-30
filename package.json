@@ -1,0 +1,12 @@
+{
+  "name": "json-blend",
+  "version": "1.0.0",
+  "description": "An NPM package to deep merge two JSON objects",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kanika Bhatia",
+  "license": "MIT"
+}
